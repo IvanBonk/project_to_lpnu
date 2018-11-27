@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Розклад</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/init.css">
 </head>
 <body>
     <main>
@@ -17,64 +17,145 @@
             </div>
         </header>
         <div class="container">
-          <div class="row">
-            <div class="col-sm">
-              <div class="btn-group dropdown">
-                  <button type="button" class="btn btn-secondary dropdown-toggle dayBtn" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    День тижня
-                  </button>
-                  <div class="dropdown-menu">
-                    <a class="dropdown-item day" name = "1">Понеділок</a>
-                    <a class="dropdown-item day" name = "2">Вівторок</a>
-                    <a class="dropdown-item day" name = "3">Середа</a>
-                    <a class="dropdown-item day" name = "4">Четвер</a>
-                    <a class="dropdown-item day" name = "5">П'ятниця</a>
-                  </div>
-                </div>
+          <form>
+            <div class="row upper_row">
+              <div class="col">
+                <input type="text" class="form-control" placeholder="Кількість курсів">
+              </div>
+              <div class="col">
+                <input type="text" class="form-control" placeholder="Кількість груп на 1 курс">
+              </div>
+              <div class="col">
+                <input type="text" class="form-control" placeholder="Кількість кабінетів">
+              </div>
             </div>
-            <div class="col-sm center">
-              <div class="btn-group dropdown">
-                  <button type="button" class="btn btn-secondary dropdown-toggle classBtn" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Курс
+            <div class="row">
+              <div class="col-sm center">
+                <button type="button" class="btn btn-secondary addTeacherBtn">
+                    Додати вчителя
+                </button>
+              </div>
+              <div class="col-sm center">
+                <a href="init.html">
+                  <button type="button" class="btn btn-secondary readyToDis">
+                      Застосувати
                   </button>
-                  <div class="dropdown-menu">
-                   <a class="dropdown-item classNum" name="9a">1</a>
-                    <a class="dropdown-item classNum" name="9b">2</a>
-                    <a class="dropdown-item classNum" name="9c">3</a>
-                  </div>
-                </div>
+                </a>
+              </div>
             </div>
-             <div class="col-sm center">
-              <div class="btn-group dropdown">
-                  <button type="button" class="btn btn-secondary dropdown-toggle numberBtn" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Група
-                  </button>
-                  <div class="dropdown-menu render_dropdown">
-                   
-                  </div>
+          </form>
+          
+          
+          <div class="addTeacher">
+            <hr>
+            <form>
+              <div class="row center_row">
+                <div class="col">
+                  <input type="text" class="form-control" placeholder="Прізвище">
                 </div>
-            </div>
-            <div class="col-sm right">
-              
-                  <button type="button" class="btn btn-secondary access">
-                    Застосувати
+                <div class="col">
+                  <input type="text" class="form-control" placeholder="Ім'я">
+                </div>
+                <div class="col">
+                  <input type="text" class="form-control" placeholder="По батькові">
+                </div>
+              </div>
+              <div class="row center_row button_row">
+                <div class="col-sm center">
+                  <div class="btn-group dropdown">
+                      <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Предмет
+                      </button>
+                      <div class="dropdown-menu">
+                        <a class="dropdown-item day" >Математика</a>
+                        <a class="dropdown-item day" >Українська мова</a>
+                        <a class="dropdown-item day" >Українска література</a>
+                        <a class="dropdown-item day" >Хімія</a>
+                        <a class="dropdown-item day" >Фізика</a>
+                      </div>
+                    </div>
+                </div>
+                <div class="col-sm roomForm center">
+                  <input type="text" class="form-control" placeholder="Робочий кабінет">
+                </div>
+              </div>
+            </form>
+            <h3>Оберіть робочі години</h3>
+            <table class="table table-bordered table-striped">
+              <thead>
+                <tr>
+                  <th scope="col">#</th>
+                  <th scope="col">Пн</th>
+                  <th scope="col">Вт</th>
+                  <th scope="col">Ср</th>
+                  <th scope="col">Чт</th>
+                  <th scope="col">Пт</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row">1</th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <th scope="row">2</th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <th scope="row">3</th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <th scope="row">4</th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <th scope="row">5</th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <th scope="row">6</th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </tbody>
+            </table>
+            <div class="row">
+              <div class="col right">
+                 <button type="button" class="btn btn-secondary nextTeacher">
+                     Наступний
                   </button>
-                  
+              </div>
+              <div class="col left">
+                 <button type="button" class="btn btn-secondary">
+                     Закінчити
+                  </button>
+              </div>
             </div>
           </div>
-          <table class="table table-striped border border-danger">
-          <thead>
-            <tr>
-              <th scope="col">Урок</th>
-              <th scope="col">Предмет</th>
-              <th scope="col">Вчитель</th>
-              <th scope="col">Аудиторія</th>
-            </tr>
-          </thead>
-          <tbody>
-              
-          </tbody>
-        </table>
         </div>
         
     </main>
