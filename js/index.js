@@ -4,6 +4,12 @@ let groupValue;
 $('.day').click(dayChoise);
 $('.courseNum').click(courseChoise);
 $('.access').click(accessChoise);
+$('.subjItem').click(accessSubj);
+
+function accessSubj(event) {
+    const target = event.target;
+    $('.subject_class').text(target.innerText);
+}
 
 
 function dayChoise(event){
@@ -100,6 +106,26 @@ function showTable(){
     $('.addTeacher').toggle();
 }
 
+let listOfTeachers;
 function nextTeacher(){
-        
+    $('td').removeClass('BlueBG');
+    
+    const teachSurname = document.querySelector('.teacherSurname').value;
+    const teachName = document.querySelector('.teacherName').value;
+    const teachFat = document.querySelector('.teacherFather').value;
+    const teachRoom = document.querySelector('.teacherRoom').value;
+    const teachSubj = document.querySelector('.subject_class').innerText;
+    const name = teachSurname + ' ' + teachName[0] + '. ' + teachFat[0] +'.';
+    listOfTeachers += `<tr>
+                    <td>${name}</td>
+                    <td>${teachSubj}</td>
+                    <td>${teachRoom}</td>
+                  </tr>`;
+    
+    $('.listTeacher').html(listOfTeachers);
+    document.querySelector('.teacherSurname').value = '';
+    document.querySelector('.teacherName').value = '';
+    document.querySelector('.teacherFather').value = '';
+    document.querySelector('.teacherRoom').value = '';
+    document.querySelector('.subject_class').innerText = 'Предмет';
 }

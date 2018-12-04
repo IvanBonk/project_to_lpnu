@@ -12,7 +12,7 @@ main header {
     box-shadow: 5px 10px 50px #444;
 }
 main .container {
-    height: 1100px;
+    height: 2100px;
     min-width: 800px;
     background-color: #ccc;
 }
@@ -92,6 +92,14 @@ header span {
 .table {
     margin-top: 40px;
 }
+.subject_class {
+    width: 200px;
+}
+.teacherList {
+    min-height: 100%
+    background-color: #ccc;
+}
+
 
 * {
   margin: 0;
@@ -110,4 +118,8 @@ body,
 .footer {
   height: 80px;
   margin-top: -80px;
+}
+
+.nav_buttons {
+    padding-top: 240px;
 }
