@@ -18,164 +18,17 @@
               </div>
           </header>
           <div class="container">
-            <form>
-              <div class="row upper_row">
-                <div class="col">
-                  <input type="text" class="form-control" placeholder="Кількість курсів">
-                </div>
-                <div class="col">
-                  <input type="text" class="form-control" placeholder="Кількість груп на 1 курс">
-                </div>
-                <div class="col">
-                  <input type="text" class="form-control" placeholder="Кількість кабінетів">
-                </div>
+            <div class="row nav_buttons">
+              <div class="col center">
+                <a href="index.html"><button type="button" class="btn btn-secondary">Генерація</button>
+                </a>
               </div>
-              <div class="row">
-                <div class="col-sm center">
-                  <button type="button" class="btn btn-secondary addTeacherBtn">
-                      Додати вчителя
-                  </button>
-                </div>
-                <div class="col-sm center">
-                  <a href="init.html">
-                    <button type="button" class="btn btn-secondary readyToDis">
-                        Застосувати
-                    </button>
-                  </a>
-                </div>
+              <div class="col center">
+                <a href="init.html"><button type="button" class="btn btn-secondary">Розклад</button>
+                </a>
               </div>
-            </form>
-          
-            
-            <div class="addTeacher">
-              <hr>
-              <form>
-                <div class="row center_row">
-                  <div class="col">
-                    <input type="text" class="form-control teacherSurname" placeholder="Прізвище">
-                  </div>
-                  <div class="col">
-                    <input type="text" class="form-control teacherName" placeholder="Ім'я">
-                  </div>
-                  <div class="col">
-                    <input type="text" class="form-control teacherFather" placeholder="По батькові">
-                  </div>
-                </div>
-                <div class="row center_row button_row">
-                  <div class="col-sm center">
-                    <div class="btn-group dropdown">
-                        <button type="button" class="btn btn-secondary dropdown-toggle subject_class" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                          Предмет
-                        </button>
-                        <div class="dropdown-menu">
-                          <a class="dropdown-item subjItem" >Математика</a>
-                          <a class="dropdown-item subjItem" >Українська мова</a>
-                          <a class="dropdown-item subjItem" >Українска література</a>
-                          <a class="dropdown-item subjItem" >Хімія</a>
-                          <a class="dropdown-item subjItem" >Фізика</a>
-                        </div>
-                      </div>
-                  </div>
-                  <div class="col-sm roomForm center">
-                    <input type="text" class="form-control teacherRoom" placeholder="Робочий кабінет">
-                  </div>
-                </div>
-              </form>
-              <h3>Оберіть робочі години</h3>
-              <table class="table table-bordered table-striped">
-                <thead>
-                  <tr>
-                    <th scope="col">#</th>
-                    <th scope="col">Пн</th>
-                    <th scope="col">Вт</th>
-                    <th scope="col">Ср</th>
-                    <th scope="col">Чт</th>
-                    <th scope="col">Пт</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <th scope="row">1</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <th scope="row">2</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <th scope="row">3</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <th scope="row">4</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <th scope="row">5</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <th scope="row">6</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                  </tr>
-                </tbody>
-              </table>
-              <div class="row">
-                <div class="col right">
-                   <button type="button" class="btn btn-secondary nextTeacher">
-                       Наступний
-                    </button>
-                </div>
-                <div class="col left">
-                   <a href="init.html">
-                     <button type="button" class="btn btn-secondary">
-                       Закінчити
-                    </button>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="teacherList">
-              <table class="table table-bordered table-striped">
-                <thead>
-                  <tr>
-                    <th scope="col">ПІБ</th>
-                    <th scope="col">Предмет</th>
-                    <th scope="col">Кабінет</th>
-                  </tr>
-                </thead>
-                <tbody class="listTeacher">
-                  
-                
-                </tbody>
-              </table>
             </div>
           </div>
-           
           
       </main>
       <footer class="footer">

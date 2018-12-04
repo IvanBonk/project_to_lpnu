@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Розклад</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/init.css">
+</head>
+<body>
+  <div class="wrapper">
+      <main class="content">
+          <header>
+              <div class="header_content">
+                  <img src="img/dnr.png"></img>
+                  <span>Львівська академічна гімназія</span>
+              </div>
+          </header>
+          <div class="container">
+            <form>
+              <div class="row upper_row">
+                <div class="col">
+                  <input type="text" class="form-control" placeholder="Кількість курсів">
+                </div>
+                <div class="col">
+                  <input type="text" class="form-control" placeholder="Кількість груп на 1 курс">
+                </div>
+                <div class="col">
+                  <input type="text" class="form-control" placeholder="Кількість кабінетів">
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm center">
+                  <button type="button" class="btn btn-secondary addTeacherBtn">
+                      Додати вчителя
+                  </button>
+                </div>
+                <div class="col-sm center">
+                  <a href="init.html">
+                    <button type="button" class="btn btn-secondary readyToDis">
+                        Застосувати
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </form>
+          
+            
+            <div class="addTeacher">
+              <hr>
+              <form>
+                <div class="row center_row">
+                  <div class="col">
+                    <input type="text" class="form-control teacherSurname" placeholder="Прізвище">
+                  </div>
+                  <div class="col">
+                    <input type="text" class="form-control teacherName" placeholder="Ім'я">
+                  </div>
+                  <div class="col">
+                    <input type="text" class="form-control teacherFather" placeholder="По батькові">
+                  </div>
+                </div>
+                <div class="row center_row button_row">
+                  <div class="col-sm center">
+                    <div class="btn-group dropdown">
+                        <button type="button" class="btn btn-secondary dropdown-toggle subject_class" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Предмет
+                        </button>
+                        <div class="dropdown-menu">
+                          <a class="dropdown-item subjItem" >Математика</a>
+                          <a class="dropdown-item subjItem" >Українська мова</a>
+                          <a class="dropdown-item subjItem" >Українска література</a>
+                          <a class="dropdown-item subjItem" >Хімія</a>
+                          <a class="dropdown-item subjItem" >Фізика</a>
+                        </div>
+                      </div>
+                  </div>
+                  <div class="col-sm roomForm center">
+                    <input type="text" class="form-control teacherRoom" placeholder="Робочий кабінет">
+                  </div>
+                </div>
+              </form>
+              <h3>Оберіть робочі години</h3>
+              <table class="table table-bordered table-striped">
+                <thead>
+                  <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Пн</th>
+                    <th scope="col">Вт</th>
+                    <th scope="col">Ср</th>
+                    <th scope="col">Чт</th>
+                    <th scope="col">Пт</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">1</th>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">2</th>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">3</th>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">4</th>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">5</th>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">6</th>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                  </tr>
+                </tbody>
+              </table>
+              <div class="row">
+                <div class="col right">
+                   <button type="button" class="btn btn-secondary nextTeacher">
+                       Наступний
+                    </button>
+                </div>
+                <div class="col left">
+                   <a href="init.html">
+                     <button type="button" class="btn btn-secondary">
+                       Закінчити
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="teacherList">
+              <table class="table table-bordered table-striped">
+                <thead>
+                  <tr>
+                    <th scope="col">ПІБ</th>
+                    <th scope="col">Предмет</th>
+                    <th scope="col">Кабінет</th>
+                  </tr>
+                </thead>
+                <tbody class="listTeacher">
+                  
+                
+                </tbody>
+              </table>
+            </div>
+          </div>
+           
+          
+      </main>
+      <footer class="footer">
+          
+      </footer>
+    </div>
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script
+	  src="https://code.jquery.com/jquery-3.3.1.min.js"
+	  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+	  crossorigin="anonymous"></script>
+    <script src="js/index.js"></script>
+</body>
+</html>
