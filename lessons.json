@@ -811,7 +811,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 1,
         "lesson": "1",
         "name": "Математика",
@@ -820,7 +820,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 1,
         "lesson": "2",
         "name": "Біологія",
@@ -829,7 +829,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 1,
         "lesson": "3",
         "name": "Християнська етика",
@@ -838,7 +838,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 1,
         "lesson": "4",
         "name": "Укр.мова",
@@ -847,7 +847,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 1,
         "lesson": "5",
         "name": "ОБЖ",
@@ -856,7 +856,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 1,
         "lesson": "6",
         "name": "Трудове навчання",
@@ -865,7 +865,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 2,
         "lesson": "1",
         "name": "Хімія",
@@ -874,7 +874,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 2,
         "lesson": "2",
         "name": "Фізика",
@@ -883,7 +883,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 2,
         "lesson": "3",
         "name": "Фізична культура",
@@ -892,7 +892,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 2,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -901,7 +901,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 2,
         "lesson": "5",
         "name": "Англійська мова",
@@ -910,7 +910,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 2,
         "lesson": "6",
         "name": "Астрономія",
@@ -919,7 +919,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 3,
         "lesson": "1",
         "name": "Хімія",
@@ -928,7 +928,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 3,
         "lesson": "2",
         "name": "Фізика",
@@ -937,7 +937,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 3,
         "lesson": "3",
         "name": "Фізична культура",
@@ -946,7 +946,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 3,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -955,7 +955,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 3,
         "lesson": "5",
         "name": "Англійська мова",
@@ -964,7 +964,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 3,
         "lesson": "6",
         "name": "Астрономія",
@@ -973,7 +973,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 4,
         "lesson": "1",
         "name": "Хімія",
@@ -982,7 +982,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 4,
         "lesson": "2",
         "name": "Фізика",
@@ -991,7 +991,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 4,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1000,7 +1000,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 4,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1009,7 +1009,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 4,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1018,7 +1018,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 4,
         "lesson": "6",
         "name": "Астрономія",
@@ -1027,7 +1027,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 5,
         "lesson": "1",
         "name": "Хімія",
@@ -1036,7 +1036,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 5,
         "lesson": "2",
         "name": "Фізика",
@@ -1045,7 +1045,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 5,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1054,7 +1054,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 5,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1063,7 +1063,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 5,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1072,7 +1072,7 @@
     },
     {
         "course": 2,
-        "group":"lag-11",
+        "group":"lag-21",
         "day": 5,
         "lesson": "6",
         "name": "Астрономія",
@@ -1081,7 +1081,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 1,
         "lesson": "1",
         "name": "Математика",
@@ -1090,7 +1090,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 1,
         "lesson": "2",
         "name": "Біологія",
@@ -1099,7 +1099,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 1,
         "lesson": "3",
         "name": "Християнська етика",
@@ -1108,7 +1108,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 1,
         "lesson": "4",
         "name": "Укр.мова",
@@ -1117,7 +1117,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 1,
         "lesson": "5",
         "name": "ОБЖ",
@@ -1126,7 +1126,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 1,
         "lesson": "6",
         "name": "Трудове навчання",
@@ -1135,7 +1135,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 2,
         "lesson": "1",
         "name": "Хімія",
@@ -1144,7 +1144,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 2,
         "lesson": "2",
         "name": "Фізика",
@@ -1153,7 +1153,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 2,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1162,7 +1162,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 2,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1171,7 +1171,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 2,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1180,7 +1180,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 2,
         "lesson": "6",
         "name": "Астрономія",
@@ -1189,7 +1189,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 3,
         "lesson": "1",
         "name": "Хімія",
@@ -1198,7 +1198,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 3,
         "lesson": "2",
         "name": "Фізика",
@@ -1207,7 +1207,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 3,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1216,7 +1216,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 3,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1225,7 +1225,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 3,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1234,7 +1234,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 3,
         "lesson": "6",
         "name": "Астрономія",
@@ -1243,7 +1243,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 4,
         "lesson": "1",
         "name": "Хімія",
@@ -1252,7 +1252,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 4,
         "lesson": "2",
         "name": "Фізика",
@@ -1261,7 +1261,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 4,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1270,7 +1270,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 4,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1279,7 +1279,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 4,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1288,7 +1288,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 4,
         "lesson": "6",
         "name": "Астрономія",
@@ -1297,7 +1297,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 5,
         "lesson": "1",
         "name": "Хімія",
@@ -1306,7 +1306,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 5,
         "lesson": "2",
         "name": "Фізика",
@@ -1315,7 +1315,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 5,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1324,7 +1324,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 5,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1333,7 +1333,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 5,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1342,7 +1342,7 @@
     },
     {
         "course": 2,
-        "group":"lag-12",
+        "group":"lag-22",
         "day": 5,
         "lesson": "6",
         "name": "Астрономія",
@@ -1351,7 +1351,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 1,
         "lesson": "1",
         "name": "Математика",
@@ -1360,7 +1360,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 1,
         "lesson": "2",
         "name": "Біологія",
@@ -1369,7 +1369,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 1,
         "lesson": "3",
         "name": "Християнська етика",
@@ -1378,7 +1378,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 1,
         "lesson": "4",
         "name": "Укр.мова",
@@ -1387,7 +1387,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 1,
         "lesson": "5",
         "name": "ОБЖ",
@@ -1396,7 +1396,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 1,
         "lesson": "6",
         "name": "Трудове навчання",
@@ -1405,7 +1405,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 2,
         "lesson": "1",
         "name": "Хімія",
@@ -1414,7 +1414,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 2,
         "lesson": "2",
         "name": "Фізика",
@@ -1423,7 +1423,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 2,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1432,7 +1432,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 2,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1441,7 +1441,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 2,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1450,7 +1450,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 2,
         "lesson": "6",
         "name": "Астрономія",
@@ -1459,7 +1459,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 3,
         "lesson": "1",
         "name": "Хімія",
@@ -1468,7 +1468,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 3,
         "lesson": "2",
         "name": "Фізика",
@@ -1477,7 +1477,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 3,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1486,7 +1486,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 3,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1495,7 +1495,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 3,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1504,7 +1504,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 3,
         "lesson": "6",
         "name": "Астрономія",
@@ -1513,7 +1513,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 4,
         "lesson": "1",
         "name": "Хімія",
@@ -1522,7 +1522,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 4,
         "lesson": "2",
         "name": "Фізика",
@@ -1531,7 +1531,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 4,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1540,7 +1540,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 4,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1549,7 +1549,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 4,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1558,7 +1558,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 4,
         "lesson": "6",
         "name": "Астрономія",
@@ -1567,7 +1567,7 @@
     },
     {   
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 5,
         "lesson": "1",
         "name": "Хімія",
@@ -1576,7 +1576,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 5,
         "lesson": "2",
         "name": "Фізика",
@@ -1585,7 +1585,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 5,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1594,7 +1594,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 5,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1603,7 +1603,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 5,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1612,7 +1612,7 @@
     },
     {
         "course": 2,
-        "group":"lag-13",
+        "group":"lag-23",
         "day": 5,
         "lesson": "6",
         "name": "Астрономія",
@@ -1621,7 +1621,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 1,
         "lesson": "1",
         "name": "Математика",
@@ -1630,7 +1630,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 1,
         "lesson": "2",
         "name": "Біологія",
@@ -1639,7 +1639,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 1,
         "lesson": "3",
         "name": "Християнська етика",
@@ -1648,7 +1648,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 1,
         "lesson": "4",
         "name": "Укр.мова",
@@ -1657,7 +1657,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 1,
         "lesson": "5",
         "name": "ОБЖ",
@@ -1666,7 +1666,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 1,
         "lesson": "6",
         "name": "Трудове навчання",
@@ -1675,7 +1675,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 2,
         "lesson": "1",
         "name": "Хімія",
@@ -1684,7 +1684,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 2,
         "lesson": "2",
         "name": "Фізика",
@@ -1693,7 +1693,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 2,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1702,7 +1702,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 2,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1711,7 +1711,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 2,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1720,7 +1720,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 2,
         "lesson": "6",
         "name": "Астрономія",
@@ -1729,7 +1729,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 3,
         "lesson": "1",
         "name": "Хімія",
@@ -1738,7 +1738,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 3,
         "lesson": "2",
         "name": "Фізика",
@@ -1747,7 +1747,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 3,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1756,7 +1756,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 3,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1765,7 +1765,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 3,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1774,7 +1774,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 3,
         "lesson": "6",
         "name": "Астрономія",
@@ -1783,7 +1783,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 4,
         "lesson": "1",
         "name": "Хімія",
@@ -1792,7 +1792,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 4,
         "lesson": "2",
         "name": "Фізика",
@@ -1801,7 +1801,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 4,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1810,7 +1810,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 4,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1819,7 +1819,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 4,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1828,7 +1828,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 4,
         "lesson": "6",
         "name": "Астрономія",
@@ -1837,7 +1837,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 5,
         "lesson": "1",
         "name": "Хімія",
@@ -1846,7 +1846,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 5,
         "lesson": "2",
         "name": "Фізика",
@@ -1855,7 +1855,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 5,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1864,7 +1864,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 5,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1873,7 +1873,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 5,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1882,7 +1882,7 @@
     },
     {
         "course": 3,
-        "group":"lag-11",
+        "group":"lag-31",
         "day": 5,
         "lesson": "6",
         "name": "Астрономія",
@@ -1891,7 +1891,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 1,
         "lesson": "1",
         "name": "Математика",
@@ -1900,7 +1900,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 1,
         "lesson": "2",
         "name": "Біологія",
@@ -1909,7 +1909,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 1,
         "lesson": "3",
         "name": "Християнська етика",
@@ -1918,7 +1918,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 1,
         "lesson": "4",
         "name": "Укр.мова",
@@ -1927,7 +1927,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 1,
         "lesson": "5",
         "name": "ОБЖ",
@@ -1936,7 +1936,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 1,
         "lesson": "6",
         "name": "Трудове навчання",
@@ -1945,7 +1945,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 2,
         "lesson": "1",
         "name": "Хімія",
@@ -1954,7 +1954,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 2,
         "lesson": "2",
         "name": "Фізика",
@@ -1963,7 +1963,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 2,
         "lesson": "3",
         "name": "Фізична культура",
@@ -1972,7 +1972,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 2,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -1981,7 +1981,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 2,
         "lesson": "5",
         "name": "Англійська мова",
@@ -1990,7 +1990,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 2,
         "lesson": "6",
         "name": "Астрономія",
@@ -1999,7 +1999,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 3,
         "lesson": "1",
         "name": "Хімія",
@@ -2008,7 +2008,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 3,
         "lesson": "2",
         "name": "Фізика",
@@ -2017,7 +2017,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 3,
         "lesson": "3",
         "name": "Фізична культура",
@@ -2026,7 +2026,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 3,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -2035,7 +2035,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 3,
         "lesson": "5",
         "name": "Англійська мова",
@@ -2044,7 +2044,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 3,
         "lesson": "6",
         "name": "Астрономія",
@@ -2053,7 +2053,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 4,
         "lesson": "1",
         "name": "Хімія",
@@ -2062,7 +2062,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 4,
         "lesson": "2",
         "name": "Фізика",
@@ -2071,7 +2071,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 4,
         "lesson": "3",
         "name": "Фізична культура",
@@ -2080,7 +2080,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 4,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -2089,7 +2089,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 4,
         "lesson": "5",
         "name": "Англійська мова",
@@ -2098,7 +2098,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 4,
         "lesson": "6",
         "name": "Астрономія",
@@ -2107,7 +2107,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 5,
         "lesson": "1",
         "name": "Хімія",
@@ -2116,7 +2116,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 5,
         "lesson": "2",
         "name": "Фізика",
@@ -2125,7 +2125,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 5,
         "lesson": "3",
         "name": "Фізична культура",
@@ -2134,7 +2134,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 5,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -2143,7 +2143,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 5,
         "lesson": "5",
         "name": "Англійська мова",
@@ -2152,7 +2152,7 @@
     },
     {
         "course": 3,
-        "group":"lag-12",
+        "group":"lag-32",
         "day": 5,
         "lesson": "6",
         "name": "Астрономія",
@@ -2161,7 +2161,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 1,
         "lesson": "1",
         "name": "Математика",
@@ -2170,7 +2170,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 1,
         "lesson": "2",
         "name": "Біологія",
@@ -2179,7 +2179,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 1,
         "lesson": "3",
         "name": "Християнська етика",
@@ -2188,7 +2188,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 1,
         "lesson": "4",
         "name": "Укр.мова",
@@ -2197,7 +2197,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 1,
         "lesson": "5",
         "name": "ОБЖ",
@@ -2206,7 +2206,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 1,
         "lesson": "6",
         "name": "Трудове навчання",
@@ -2215,7 +2215,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 2,
         "lesson": "1",
         "name": "Хімія",
@@ -2224,7 +2224,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 2,
         "lesson": "2",
         "name": "Фізика",
@@ -2233,7 +2233,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 2,
         "lesson": "3",
         "name": "Фізична культура",
@@ -2242,7 +2242,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 2,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -2251,7 +2251,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 2,
         "lesson": "5",
         "name": "Англійська мова",
@@ -2260,7 +2260,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 2,
         "lesson": "6",
         "name": "Астрономія",
@@ -2269,7 +2269,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 3,
         "lesson": "1",
         "name": "Хімія",
@@ -2278,7 +2278,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 3,
         "lesson": "2",
         "name": "Фізика",
@@ -2287,7 +2287,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 3,
         "lesson": "3",
         "name": "Фізична культура",
@@ -2296,7 +2296,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 3,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -2305,7 +2305,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 3,
         "lesson": "5",
         "name": "Англійська мова",
@@ -2314,7 +2314,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 3,
         "lesson": "6",
         "name": "Астрономія",
@@ -2323,7 +2323,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 4,
         "lesson": "1",
         "name": "Хімія",
@@ -2332,7 +2332,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 4,
         "lesson": "2",
         "name": "Фізика",
@@ -2341,7 +2341,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 4,
         "lesson": "3",
         "name": "Фізична культура",
@@ -2350,7 +2350,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 4,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -2359,7 +2359,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 4,
         "lesson": "5",
         "name": "Англійська мова",
@@ -2368,7 +2368,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 4,
         "lesson": "6",
         "name": "Астрономія",
@@ -2377,7 +2377,7 @@
     },
     {   
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 5,
         "lesson": "1",
         "name": "Хімія",
@@ -2386,7 +2386,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 5,
         "lesson": "2",
         "name": "Фізика",
@@ -2395,7 +2395,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 5,
         "lesson": "3",
         "name": "Фізична культура",
@@ -2404,7 +2404,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 5,
         "lesson": "4",
         "name": "Зарубіжна література",
@@ -2413,7 +2413,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 5,
         "lesson": "5",
         "name": "Англійська мова",
@@ -2422,7 +2422,7 @@
     },
     {
         "course": 3,
-        "group":"lag-13",
+        "group":"lag-33",
         "day": 5,
         "lesson": "6",
         "name": "Астрономія",
